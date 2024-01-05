@@ -6,7 +6,7 @@ export const AboutSection = () => {
       style={{ backgroundImage: "url('./images/bg.webp')" }}
     >
       <h2 className="text-3xl font-semibold pr-6 md:text-5xl text-black">
-        ¡Hola! Soy Jheremy, un Desarrollador FullStack Super Creativo.
+        ¡Hola! Soy Jheremy Zelaya, un Desarrollador FullStack Super Creativo.
       </h2>
       <article className="flex flex-col gap-3 text-black">
         <p>
